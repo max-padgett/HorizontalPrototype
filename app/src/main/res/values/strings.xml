@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HorizontalPrototype</string>
+    <string name="create_room">Create Room</string>
+    <string name="join_room">Join Room</string>
+    <string name="logout">Logout</string>
+    <string name="create_room_button_text">Create Room</string>
+</resources>
